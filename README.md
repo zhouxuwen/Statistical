@@ -5,6 +5,8 @@
 输入文件地址，统计文件中字母出现次数频率，只能统计大小写字母，并用直方图展示
 
 ## 输入文件窗口
+>输入正确的地址和文件名
+
 
 ![input](https://github.com/zhouxuwen/Statistical/blob/master/InputTextFile.png "input")
 
